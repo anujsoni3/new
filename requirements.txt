@@ -9,3 +9,4 @@ chromadb==1.0.15
 langchain-huggingface
 PyMuPDF==1.25.3
 unstructured==0.18.1
+gunicorn==21.2.0
